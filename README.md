@@ -1,6 +1,6 @@
 # Information
 
-This small script will encrypt (encode) any VBS file. The encryption is dynamic, if you encrypt the same VBS file 5 times, you will get 5 different encrypted files (with different MD5 hash, etc). You can try to encrypt and encrypted file, but the size of the final file will grow fast.
+This small script will encrypt (encode) any VBS file. The encryption is dynamic, if you encrypt the same VBS file 5 times, you will get 5 different encrypted files (with different MD5 hash, etc). You can try to re-encrypt the same file, but the size of the final file will grow fast.
 
 
 # Usage
